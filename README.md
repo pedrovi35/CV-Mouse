@@ -35,16 +35,6 @@ venv\Scripts\activate     # Windows
 pip install -r requirements.txt
 ```
 
-> **Nota:** Se não tiver um arquivo `requirements.txt`, crie com:
-
-```txt
-opencv-python
-mediapipe
-pyautogui
-numpy
-```
-
----
 
 ## ▶️ Como Usar
 
